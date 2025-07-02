@@ -1,6 +1,8 @@
 # Survey Data
 ## Module for GS150Q/PACS190 (Fall 2020)
 
+## Important: If you are pushing to this repo after July 2, 2025 make sure that you're working from a new clone! DO NOT PUSH WITHOUT RECLONING THIS REPOSITORY.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/GS102-SurveyData-FA20/master)
 [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-modules/GS102-SurveyData-FA20)
 
